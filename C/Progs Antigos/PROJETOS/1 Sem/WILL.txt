@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <conio.h>
+#include <math.h>
+void main(void)
+{
+   int v1[10],v2[10];
+   int i,k;
+   char nome[10];
+
+
+clrscr();
+	for(k=0;k<=9;k++)
+	{
+	printf("Digite o nome de uma pessoa: ");
+	scanf("%s",nome[k]);
+	
+        printf("Digite a Idade dessa pessoa: ");
+	scanf("%d",v1[k];
+        
+        v2[k]=v1[k]*2;
+        
+
+        printf("O Dobro da idade de %s   é igual a %d \n\n",nome[k],v2[k]);
+        }
+	
+        
+
+
+
+   getch();
+  }

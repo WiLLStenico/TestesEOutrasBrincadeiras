@@ -1,0 +1,1 @@
+gcc -lpthread servidorTCP_threads.c -o servidorTCP_threads

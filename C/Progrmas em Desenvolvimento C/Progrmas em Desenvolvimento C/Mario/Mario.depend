@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1292975087 source:c:\users\will\desktop\progrmas em desenvolvimento c\mario\main.cpp
+	<cstdlib>
+	<iostream>
+	"SDL/SDL.h"
+	<SDL/SDL_image.h>
+	<string>
+	<vector>
+	"Utils.h"
+
+1292379050 c:\users\will\desktop\progrmas em desenvolvimento c\mario\utils.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+

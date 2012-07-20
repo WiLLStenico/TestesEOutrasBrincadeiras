@@ -1,0 +1,97 @@
+#include <stdio.h>
+#include <conio.h>
+#include <math.h>
+
+void main(void)
+{
+
+textcolor(RED);
+textbackground(LIGHTGRAY);
+clrscr();
+printf("\n                             000000000000  ");
+printf("\n                           00000000000000000000  ");
+textcolor(BLACK);
+cprintf("                                                          00000000");
+textcolor(YELLOW);
+cprintf("0000");
+textcolor(BLACK);
+cprintf("00");
+textcolor(YELLOW);
+cprintf("00  ");
+textcolor(BLACK);
+cprintf("                                                            0000");
+textcolor(YELLOW);
+cprintf("00");
+textcolor(BLACK);
+cprintf("00");
+textcolor(YELLOW);
+cprintf("000000");
+textcolor(BLACK);
+cprintf("00");
+textcolor(YELLOW);
+cprintf("000000  ");
+textcolor(BLACK);
+cprintf("                                                        0000");
+textcolor(YELLOW);
+cprintf("00");
+textcolor(BLACK);
+cprintf("0000");
+textcolor(YELLOW);
+cprintf("000000");
+textcolor(BLACK);
+cprintf("00");
+textcolor(YELLOW);
+cprintf("000000  ");
+textcolor(BLACK);
+cprintf("                                                      000000");
+textcolor(YELLOW);
+cprintf("00000000");
+textcolor(BLACK);
+cprintf("00000000  ");
+textcolor(YELLOW);
+cprintf("                                                            0000000000000000  ");
+textcolor(BLACK);
+cprintf("                                                            000000");
+printf("00");
+cprintf("000000  ");
+textcolor(BLACK);
+cprintf("                                                              00000000");
+printf("00");
+cprintf("0000");
+printf("00");
+cprintf("000000    ");
+cprintf("                                                    0000000000");
+printf("00000000");
+cprintf("00000000    ");
+textcolor(YELLOW);
+cprintf("                                                  000000");
+textcolor(BLACK);
+cprintf("00");
+printf("00");
+textcolor(YELLOW);
+cprintf("00");
+printf("0000");
+cprintf("00");
+printf("00");
+textcolor(BLACK);
+cprintf("00");
+textcolor(YELLOW);
+cprintf("0000    ");
+cprintf("                                                  00000000");
+printf("000000000000");
+cprintf("000000");
+cprintf("                                                      000000");
+printf("0000000000000000");
+cprintf("0000");
+printf("\n                           00000000  00000000");
+textcolor(BROWN);
+cprintf("                                                            00000000      00000000");
+cprintf("                                                        0000000000      0000000000");
+textcolor(WHITE+BLINK);
+cprintf("\n\n                                  000000   00  00  000000    00      00   00    000000    00    0000    00000");
+cprintf("     0    0   00  00  00        00 0  0 00 00  00  0     0   00   0    0        0");
+cprintf("    0 0  0   00  00  000000    00  00  00 000000  000000    00   0    0    0000");
+cprintf("     0  000   00  00  00        00      00 00  00  00   00   00   0    0      ");
+cprintf("       000000   000000  00000     00      00 00  00  00   00   00   000000    00");
+getch();
+}

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1229096447 source:c:\documents and settings\rodrigo_lopes\desktop\altera ip\resource.rc
+	"resource.h"
+
+1229096360 c:\documents and settings\rodrigo_lopes\desktop\altera ip\resource.h
+	<windows.h>
+
+1229096014 source:c:\documents and settings\rodrigo_lopes\desktop\altera ip\main.cpp
+	<windows.h>
+	"resource.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1229138620 source:c:\users\will\desktop\altera ip\main.cpp
+	<windows.h>
+	"resource.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1229096360 c:\users\will\desktop\altera ip\resource.h
+	<windows.h>
+
+1229129813 source:c:\users\will\desktop\altera ip\resource.rc
+	"resource.h"
+

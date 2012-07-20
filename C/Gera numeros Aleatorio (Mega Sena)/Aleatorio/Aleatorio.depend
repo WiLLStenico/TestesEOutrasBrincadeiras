@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1262604137 source:d:\documents and settings\plantao\desktop\aleatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1262627790 source:f:\programas c\gera numeros aleatorio (mega sena)\aleatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+

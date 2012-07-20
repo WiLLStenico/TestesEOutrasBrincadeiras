@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1268788288 source:c:\users\will\desktop\progrmas em desenvolvimento c\nim\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1272583658 source:e:\programa«ao\programas c\nim\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+
+1268871902 source:g:\programa«ao\programas c\nim\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1274312795 source:c:\users\will\desktop\nim\nim\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+
+1274755923 source:c:\users\will\desktop\nim\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+
+1274828111 source:c:\users\will\desktop\nim linux\nim\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+

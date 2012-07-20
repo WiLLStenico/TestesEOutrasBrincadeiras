@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1266180038 source:c:\documents and settings\plantao\desktop\teste\main.c
+	<windows.h>
+
+1267035068 source:\\192.168.79.34\transferencia\will\teste\main.c
+	<windows.h>
+
+1267038053 source:\\192.168.79.34\transferencia\will\install\main.c
+	<windows.h>
+
+1267060070 source:e:\programas c\install\main.c
+	<windows.h>
+	<string.h>
+

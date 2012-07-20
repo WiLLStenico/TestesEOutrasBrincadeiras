@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1292288703 source:c:\users\will\desktop\progrmas em desenvolvimento c\mario\main.cpp
+	<cstdlib>
+	<iostream>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+
